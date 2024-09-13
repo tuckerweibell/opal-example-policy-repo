@@ -1,6 +1,6 @@
 {
   "users": {
-    "alice": {
+    "jim": {
       "roles": ["admin"],
       "location": {
         "country": "US",
